@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - Work in Progress, Updating Based on https://github.com/chriskhanhtran/minimal-portfolio
 ---
 ## Foundations of Data Science
 
