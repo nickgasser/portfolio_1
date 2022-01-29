@@ -17,7 +17,7 @@
 
 ### Dimensional Reduction on Automobile MPG Data
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Marketing_Campaign_Analysis.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/PCA_and_tSNE_Project.html)
 
 <div style="text-align: justify">This project involves exploring the automobile mpg dataset by applying dimensionality reduction techniques and visualizing the data in lower dimensions to extract insights.</div>
 
@@ -30,7 +30,7 @@
 ---
 ### Banking Customer Segmentation 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Marketing_Campaign_Analysis.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Unsupervised_Learning_Project.html)
 
 <div style="text-align: justify">This project involves segmenting the bank customers to help the bank upgrading the service delivery model and ensure that customers queries are resolved faster.</div>
 
