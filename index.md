@@ -4,7 +4,7 @@
 
 ### Marketing Campaign Analysis
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Marketing_Campaign_Analysis.html)
 
 <div style="text-align: justify">This project aims to analyse marketing data and address some important business problems/questions related to customer demographics, product preferences, channel performances, etc.</div>
 
