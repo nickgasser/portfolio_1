@@ -43,17 +43,31 @@
 ---
 ## Machine Learning
 
-### Project 1
+### Predicting Boston Housing Cost 
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Boston_house_price.html)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+<div style="text-align: justify">This project involves predicting the house prices based on the features of the locality using regression techniques.</div>
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Skills:** Linear Regression
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+<br>
+<center><img src="images/credit-risk-webapp.png"/></center>
+<br>
 
-<center><img src="images/nlp.png"/></center>
+---
+
+### Predicting Hotel Booking Cancellations
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Project_Classification_ML.html)
+
+<div style="text-align: justify">This project involves predicting which hotel bookings will result in cancellations using classification algorithms to help the hotel prevent potential losses from last minute cancellations and additional costs to resell rooms.</div>
+
+**Skills:** Logistic Regression, kNN
+
+<br>
+<center><img src="images/credit-risk-webapp.png"/></center>
+<br>
 
 ---
 
