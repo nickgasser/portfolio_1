@@ -73,63 +73,73 @@
 
 ## Practical Data Science
 
-### Project 1
+### Predicting Online Education Enrollment
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Classification_PDS.html)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+<div style="text-align: justify">This project involves predicting the which individuals will enroll in an online education program using classification algorithms.  The classification will allow the online program recruiters to properly allocate resources for potential students.</div>
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Skills:** Decision Trees, Random Forest
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+<br>
+<center><img src="images/credit-risk-webapp.png"/></center>
+<br>
 
-<center><img src="images/nlp.png"/></center>
+---
+
+### Predicting Natural Gas CO2 Emissions
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Natural_Gas_Emission_Time_Series.html)
+
+<div style="text-align: justify">This project involves predicting the natural gas CO2 emission values using time series analysis.</div>
+
+**Skills:** Time Series
+
+<br>
+<center><img src="images/credit-risk-webapp.png"/></center>
+<br>
 
 ---
 
 ## Deep Learning
 
-### Project 1
+### Predicting Natural Gas CO2 Emissions
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+- ANN Notebook
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NN_SVHN.html)
+- CNN Notebook
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/CNN_SVHN.html)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+<div style="text-align: justify">This project involves recognizing the street view housing number digit by using artificial and convolutional neural networks.</div>
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Skills:** Artificial Neural Networks, Convolutional Neural Networks
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+<br>
+<center><img src="images/credit-risk-webapp.png"/></center>
+<br>
 
 ---
 
 ## Recommendation Systems
 
-### Project 1
+### Recommending Amazon Products
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Amazon_Recommendation_System.html)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+<div style="text-align: justify">This project involves recommending the best amazon products available to the users by using some recommendation systems techniques.</div>
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Skills:** Rank Based Recommendation Systems, Similarity Based Recommendation Systems, Matrix Factorization Based Recommendation Systems
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+<br>
+<center><img src="images/credit-risk-webapp.png"/></center>
+<br>
 
 ---
 
 ## Industry Projects
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
 <div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
 <br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
 ## About Me
