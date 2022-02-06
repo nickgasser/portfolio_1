@@ -10,7 +10,7 @@
 
 **Skills:** Exploratory Data Analysis, Data Visualization, Statistics
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/Marketing_Campaign.PNG"/></center>
 
 ---
 ## Data Analysis and Visualization
@@ -24,7 +24,7 @@
 **Skills:** PCA, t-SNE
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Auto_MPG.PNG"/></center>
 <br>
 
 ---
@@ -37,7 +37,7 @@
 **Skills:** Unsupervised Learning, Clustering
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Banking.PNG"/></center>
 <br>
 
 ---
@@ -52,7 +52,7 @@
 **Skills:** Linear Regression
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Boston_House.PNG"/></center>
 <br>
 
 ---
@@ -66,7 +66,7 @@
 **Skills:** Logistic Regression, kNN
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Hotel_Cancel.PNG"/></center>
 <br>
 
 ---
@@ -82,7 +82,7 @@
 **Skills:** Decision Trees, Random Forest
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Online_Enrollment.png"/></center>
 <br>
 
 ---
@@ -96,14 +96,14 @@
 **Skills:** Time Series
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Natural_Gas_CO2.png"/></center>
 <br>
 
 ---
 
 ## Deep Learning
 
-### Predicting Natural Gas CO2 Emissions
+### Street Housing Number
 
 - ANN Notebook
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NN_SVHN.html)
@@ -115,7 +115,7 @@
 **Skills:** Artificial Neural Networks, Convolutional Neural Networks
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Street_Number.PNG"/></center>
 <br>
 
 ---
@@ -131,7 +131,7 @@
 **Skills:** Rank Based Recommendation Systems, Similarity Based Recommendation Systems, Matrix Factorization Based Recommendation Systems
 
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Amazon.jpg"/></center>
 <br>
 
 ---
